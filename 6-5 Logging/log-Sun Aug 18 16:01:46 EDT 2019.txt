@@ -1,0 +1,7 @@
+[Sun Aug 18 16:01:45 EDT 2019] : New Session
+[Sun Aug 18 16:01:45 EDT 2019] : [DEBUG] : Beginning execution
+[Sun Aug 18 16:01:45 EDT 2019] : [LOG] : action 1 logged
+[Sun Aug 18 16:01:45 EDT 2019] : [LOG] : action 2 logged
+[Sun Aug 18 16:01:45 EDT 2019] : [LOG] : action 3 logged
+[Sun Aug 18 16:01:45 EDT 2019] : [ERROR] : wait 3?
+[Sun Aug 18 16:01:45 EDT 2019] : Finished session ...
