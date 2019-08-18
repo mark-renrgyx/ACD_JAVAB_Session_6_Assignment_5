@@ -1,0 +1,3 @@
+Question: Why is finally block necessary?
+
+A: The finally block executes as long as either the try or catch block was entered.  If there is a return statement, the finally block will still execute, but code after the blocks would not be reached.  Finally also allows you to ensure some code runs regardless of whether you caught the correct exception, which could help with debugging.  There is also the potential situation where you don't want something in the finally block to be in scope after the block is finished.
